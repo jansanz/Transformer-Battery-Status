@@ -9,7 +9,7 @@
     <style
         name="TableCellBatteryLevel"
         parent="@style/TableCellTextView">
-        <item name="android:textSize">60sp</item>
+        <item name="android:textSize">55sp</item>
         <item name="android:typeface">monospace</item>
     </style>
 </resources>
