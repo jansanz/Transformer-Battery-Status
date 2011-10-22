@@ -1,3 +1,6 @@
+/**
+ * Copyright (c) 2011 Jan Sanchez
+ */
 package org.jfsd.transformerbatterystatus;
 
 import android.app.Activity;
