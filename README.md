@@ -13,7 +13,7 @@ Available in two themes:
 * Holo
 * Holo.Light
 
-Here is the [links][2] to download the apks.
+Here is the [link][2] to download the apks.
 
 ### Screenshots:
 
