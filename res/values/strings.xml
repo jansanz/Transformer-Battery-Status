@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, TransformerBatteryStatusActivity!</string>
-    <string name="app_name">Battery Status</string>
+    <string name="app_name">TF Battery Status</string>
     <string name="tablet_battery_title">Tablet</string>
     <string name="dock_battery_title">Dock</string>
     <string name="app_name_title">Transformer Battery Status</string>
