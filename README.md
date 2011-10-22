@@ -8,6 +8,13 @@ For easy access, add the icon to the home screen.
 
 To dismiss the app, simply tap outside the window of the app, or use any of the status bar buttons (back, home ...).
 
+Available in two themes:
+
+* Holo
+* Holo.Light
+
+Here is the [links][2] to download the apks.
+
 ### Screenshots:
 
 #### TF Battery Status - Holo Theme
@@ -17,3 +24,4 @@ To dismiss the app, simply tap outside the window of the app, or use any of the 
 ![TF Battery Status with Holo Light Theme](http://i51.tinypic.com/91mhzd.png)
 
 [1]:http://en.wikipedia.org/wiki/ASUS_Eee_Pad_Transformer "Asus Eee Pad Transformer Wikipedia article"
+[2]:https://github.com/janfsd/Transformer-Battery-Status/downloads "GitHub project Downloads page"
